@@ -10,7 +10,11 @@ public class fdc {
         System.out.println(one + two);
         String name = "man";
         System.out.println(name);
+        String dictator="donald trump";
+        System.out.println(dictator);
+
     }
+
 
 
 }
