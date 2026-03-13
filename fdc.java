@@ -23,6 +23,10 @@ public class fdc {
         int sc=44;
         int dc=55;
         System.out.println(sc+dc);
+        String ud ="India";
+        System.out.println(ud);
+
+
 
 
     }
