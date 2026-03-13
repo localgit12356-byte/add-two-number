@@ -25,6 +25,11 @@ public class fdc {
         System.out.println(sc+dc);
         String ud ="India";
         System.out.println(ud);
+        if(55>50){
+            System.out.println("pass");
+        }else {
+            System.out.println("fail");
+        }
 
 
 
